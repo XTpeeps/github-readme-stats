@@ -1,3 +1,3 @@
-# x7peeps
+# xtpeeps
 
-[![x7peeps's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=xtpeeps&count_private=true&show_icons=true&include_all_commits=true&repo=github-readme-stats)](https://github.com/xtpeeps/github-readme-stats)
+[![xtpeeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtpeeps&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xtpeeps/github-readme-stats)
